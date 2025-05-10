@@ -1,0 +1,17 @@
+/Users/jude/Documents/MMDC/motorph/src/main/java/com/group/motorph/Motorph.java
+/Users/jude/Documents/MMDC/motorph/src/main/java/com/group/motorph/models/Employee.java
+/Users/jude/Documents/MMDC/motorph/src/main/java/com/group/motorph/models/TimeLogs.java
+/Users/jude/Documents/MMDC/motorph/src/main/java/com/group/motorph/models/WeeklyTotals.java
+/Users/jude/Documents/MMDC/motorph/src/main/java/com/group/motorph/services/data_loader/LoadEmployeeData.java
+/Users/jude/Documents/MMDC/motorph/src/main/java/com/group/motorph/services/data_loader/LoadTimeSheet.java
+/Users/jude/Documents/MMDC/motorph/src/main/java/com/group/motorph/services/government_contributions/CalculatePagIbig.java
+/Users/jude/Documents/MMDC/motorph/src/main/java/com/group/motorph/services/government_contributions/CalculatePhilHealth.java
+/Users/jude/Documents/MMDC/motorph/src/main/java/com/group/motorph/services/government_contributions/CalculateSss.java
+/Users/jude/Documents/MMDC/motorph/src/main/java/com/group/motorph/services/government_contributions/CalculateWithholdingTax.java
+/Users/jude/Documents/MMDC/motorph/src/main/java/com/group/motorph/services/payroll_calculations/CalculateAndDisplay.java
+/Users/jude/Documents/MMDC/motorph/src/main/java/com/group/motorph/services/payroll_calculations/CalculateOvertimePay.java
+/Users/jude/Documents/MMDC/motorph/src/main/java/com/group/motorph/services/payroll_calculations/CalculateWeeklyAllowances.java
+/Users/jude/Documents/MMDC/motorph/src/main/java/com/group/motorph/services/payroll_calculations/CalculateWeeklyTotals.java
+/Users/jude/Documents/MMDC/motorph/src/main/java/com/group/motorph/ui/ConsoleUI.java
+/Users/jude/Documents/MMDC/motorph/src/main/java/com/group/motorph/utilities/Formatter.java
+/Users/jude/Documents/MMDC/motorph/src/main/java/com/group/motorph/utilities/ParseNumber.java
